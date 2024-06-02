@@ -1,6 +1,6 @@
-.content{
+div{
+    height: 100px;
+    width: 100px;
     color: red;
-}
-.newClass{
-    background-color: green;
+    background-color: aqua;
 }

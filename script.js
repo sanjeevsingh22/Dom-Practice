@@ -58,6 +58,10 @@
 // document.querySelector("body").prepend(newBtn);
 
 //Question2
-let para= document.querySelector("p");
+// let para= document.querySelector("p");
+
+
+
+
 
 
