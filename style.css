@@ -1,6 +1,8 @@
-div{
-    height: 100px;
-    width: 100px;
-    color: red;
-    background-color: aqua;
+.dark{
+    background-color: black;
+    color: white;
+}
+.white{
+    background-color: white;
+    color: black;
 }
