@@ -57,8 +57,6 @@
 // newBtn.style.backgroundColor="red";
 // document.querySelector("body").prepend(newBtn);
 
-//Question2
-// let para= document.querySelector("p");
 
 
 
